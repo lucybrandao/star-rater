@@ -1,6 +1,6 @@
 # star-rating
 
-![My star-rating](./star-rating.jpeg)
+![My star-rating](./star-rating-example.jpeg)
 
 ## General info
 My first webcomponent! :D
