@@ -2,6 +2,10 @@
 
 ![My star-rating](./star-rating-example.jpeg)
 
+```html
+<star-rating />
+```
+
 ## General info
 My first webcomponent! :D
 
