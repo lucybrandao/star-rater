@@ -1,4 +1,4 @@
-# star-rating (:us:)
+# star-rating :star2: (:us:)
 
 ![My star-rating](./star-rating-example.jpeg)
 
