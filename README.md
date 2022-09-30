@@ -17,4 +17,5 @@ Project is created with:
 ## Setup
 Just download this project and open `index.html` in your browser.
 
-font: 'https://www.youtube.com/watch?v=fZZAt0Sbz5k'
+## Font
+- [YouTube / (Rocketseat) JAVASCRIPT: Vamos construir um WEB Component e aprender Shadow DOM](https://www.youtube.com/watch?v=fZZAt0Sbz5k)
